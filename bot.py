@@ -6,7 +6,7 @@ from main import chat_anwser
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = "5608949484:AAHiroYwLOvmwhTlEggIqe3YdtJEqMwQyDY"
+TOKEN = "PASTE YOUR API"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
